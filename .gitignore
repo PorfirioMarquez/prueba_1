@@ -37,11 +37,9 @@ out/
 .vscode/
 # Gradle
 .gradle/
-build/
 caches/
 daemon/
 native/
-wrapper/
 
 # Archivos temporales
 .tmp/
