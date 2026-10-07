@@ -35,3 +35,26 @@ out/
 
 ### VS Code ###
 .vscode/
+# Gradle
+.gradle/
+build/
+caches/
+daemon/
+native/
+wrapper/
+
+# Archivos temporales
+.tmp/
+*.tmp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
